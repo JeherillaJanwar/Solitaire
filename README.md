@@ -1,8 +1,17 @@
 # Solitaire
-Solitaire is a game made by Ishaan Sharma in Python 3.9
+Solitaire ~ a game made by Ishaan Sharma in Python 3.9
 
-# How to play
-To play this game, clone this repository then from terminal change directory to Solitaire using "cd Solitaire/" and run the command "python3.9 main.py" to launch the application.
+# Quick Start
+To play this game, clone this repository then -->
+```bash
+# change dir
+cd Solitaire-main/
+# install python
+$ sudo apt-get update
+$ sudo apt-get install python3.6
+# Start application (you may need to install requirements before)
+$ python3.9 src/main.py
+```
 
 You can learn how to play solitaire from https://gamerules.com/rules/solitaire-card-game/
 
