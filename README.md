@@ -8,7 +8,7 @@ To play this game, clone this repository then -->
 cd Solitaire-main/
 # install python
 $ sudo apt-get update
-$ sudo apt-get install python3.6
+$ sudo apt-get install python3.9
 # Start application (you may need to install requirements before)
 $ python3.9 src/main.py
 ```
